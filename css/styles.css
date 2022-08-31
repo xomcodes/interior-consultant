@@ -41,3 +41,8 @@ body{
 .modal-backdrop{
     background-color: black;
 }
+
+.footer{
+    color: white;
+    /* height: 10px */
+}
