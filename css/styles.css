@@ -60,18 +60,30 @@ body{
    background-color:white;
    color: black;
    width: 30%;
-    
+    position:absolute;
+  /* top: -0.4px;
+    right: 5px;  */
+
+    right: 15%;
+    top: 65%;
+     
 }
+
+
+
+
 
 .profile-img img{
     border-radius: 50%;
     width: 70px;
-    height:70px
+    height:70px;
+    /* position:absolute; */
 }
 
 
 .profile-text{
     margin-left:10px ;
+    position: relative;
 }
 
 
