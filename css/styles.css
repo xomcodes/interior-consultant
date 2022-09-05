@@ -119,11 +119,41 @@ margin-left: 10px;
 }
 
 
-
-
-
-
 .footer{
     color: white;
     /* height: 10px */
 }
+
+
+
+/* Mobile view */
+
+ @media (max-width: 426px) {
+    .flex-sm{
+        flex-direction:column;
+       }
+
+
+       .text-div{
+        padding-top: 0px;
+        margin-left: 5px;
+    }
+
+    .text-div h1{
+        
+    }
+
+
+
+
+
+.left-ptext{
+    width: 100%;
+    font-size: 20px;
+}
+
+
+
+    }
+
+
